@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="android_title_height">50dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="android_button_width" >480dp</dimen>
+    <dimen name="android_button_height" >80dp</dimen>
+
+    <dimen name="android_textview_size">40sp</dimen>
+    <dimen name="android_textview_margin_top">15dp</dimen>
+    <dimen name="android_textview_margin_bottom">40dp</dimen>
+    <dimen name="android_button_margin_top">50dp</dimen>
+    <dimen name="android_button_margin_bottom">15dp</dimen>
+</resources>
